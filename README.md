@@ -1,5 +1,4 @@
-
-# 👋 Hi, welcome to my profile!
+# 👋 Hello, welcome to my Github profile!
 
 ### 💻 **Experienced Developer**
 - **Experienced in:**  
@@ -7,4 +6,4 @@
 
 ---
 
-## **Currently doing nothing**
+## **Currently doing nothing, thanks for checking my profile out**
