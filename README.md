@@ -1,4 +1,4 @@
-# 👋 Hello, welcome to my Github profile!
+# 👋 Welcome to my Github profile!
 
 ### **Experienced Cfx.re Developer**
 - **Experienced in:**  
