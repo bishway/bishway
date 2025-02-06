@@ -1,7 +1,7 @@
 # 👋 Welcome to my Github profile!
 
 ### **Experienced Cfx.re Developer**
-- **Experienced in:**  
+**Experienced in:**  
 - MySQL
 - JavaScript
 - Lua
